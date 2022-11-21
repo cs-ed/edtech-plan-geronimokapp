@@ -16,16 +16,16 @@ As all students at our school have their own Chromebook, this will be the primar
 ## Plan
 
 ### Software Specifications
-*Students use ChromeOS
-*Teachers use MacOS
-*[Scratch](https://scratch.mit.edu/)
-*Google Classroom
-*Infinite Campus Gradebook
+1.Students use ChromeOS
+2.Teachers use MacOS
+3.[Scratch](https://scratch.mit.edu/)
+4.Google Classroom
+5.Infinite Campus Gradebook
 
 ### Hardware Specifications
-*Chromebooks
-*Macbook Air
-*Wifi network
+1.Chromebooks
+2.Macbook Air
+3.Wifi network
 
 ### Application
 
