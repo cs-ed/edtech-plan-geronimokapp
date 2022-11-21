@@ -16,16 +16,16 @@ As all students at our school have their own Chromebook, this will be the primar
 ## Plan
 
 ### Software Specifications
--Students use ChromeOS
--Teachers use MacOS
--[Scratch](https://scratch.mit.edu/)
--Google Classroom
--Infinite Campus Gradebook
+*Students use ChromeOS
+*Teachers use MacOS
+*[Scratch](https://scratch.mit.edu/)
+*Google Classroom
+*Infinite Campus Gradebook
 
 ### Hardware Specifications
-
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+*Chromebooks
+*Macbook Air
+*Wifi network
 
 ### Application
 
