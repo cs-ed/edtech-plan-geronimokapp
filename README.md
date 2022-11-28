@@ -7,7 +7,7 @@ This plan will serve as a guide to implement an introductory course to computer 
 
 ### Course
 
-The course will build upon students' prior knowlege of literacy skills while applying them to the new content knowledge of compueter science. This will be an opportunity for students to demonstarte their understanding of various texts while learning how codeing and computers systems work. The class will be designed as an enrichment course to existing content and will serve as a support to the literacy component of the curriculum. The course will primarily be aimed at 6-8th graders, but ideally will be open to upper elementary students in need of a new challenge or interested in learning about computer science.
+The course will build upon students' prior knowlege of literacy skills while applying them to the new content knowledge of computer science. This will be an opportunity for students to demonstrate their understanding of various texts while learning how codeing and computers systems work. The class will be designed as an enrichment course to existing content and will serve as a support to the literacy component of the curriculum. The course will primarily be aimed at 6-8th graders, but ideally will be open to upper elementary students in need of a new challenge or interested in learning about computer science.
 
 ### Situation
 
