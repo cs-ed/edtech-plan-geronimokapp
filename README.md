@@ -23,8 +23,8 @@ As all students at our school have their own Chromebook, this will be the primar
 -Infinite Campus Gradebook
 
 ### Hardware Specifications
--Chromebooks
--Macbook Air
+-Chromebooks 1.1 GHz Celeron N3450 32 GB Hard Drive 4 GB Ram
+-Macbook Air 1.2 GHz Quad -Core Intel Core i7 16 GB memory 250.69 HD storage
 -Wifi network
 -Projector
 -applicable dongles
