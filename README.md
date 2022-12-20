@@ -1,17 +1,17 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9406212&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-This plan will serve as a guide to implement an introductory course to computer science in a K-8 school setting. The plan will utilize literacy skills as a vehicle to teach computer science fundamnetals. 
+This plan will serve as a guide to implement an introductory course to computer science in a K-8 school setting. The plan will utilize literacy skills as a vehicle to teach computer science fundamentals. 
 
 ## Context
 
 ### Course
 
-The course will build upon students' prior knowlege of literacy skills while applying them to the new content knowledge of computer science. This will be an opportunity for students to demonstrate their understanding of various texts while learning how codeing and computers systems work. The class will be designed as an enrichment course to existing content and will serve as a support to the literacy component of the curriculum. The course will primarily be aimed at 6-8th graders, but ideally will be open to upper elementary students in need of a new challenge or interested in learning about computer science.
+The course will build upon students' prior knowlege of literacy skills while applying them to the new content knowledge of computer science. This will be an opportunity for students to demonstrate their understanding of various texts while learning how coding and computers systems work. The class will be designed as an enrichment course to existing content and will serve as a support to the literacy component of the curriculum. The course will primarily be aimed at 6-8th graders, but ideally will be open to upper elementary students in need of a new challenge or interested in learning about computer science.
 
 ### Situation
 
-As all students at our school have their own Chromebook, this will be the primary tool they use to complete assignments and expore the projects. The class will be held for 45-50 minute periods at least twice a week as an enrichement course. All students will have access to the class at some point in the school year but it will be on a rotational basis due to time and teacher constraints. Not all students will be taking the class at the same time, but all will have access at some point in the year. Lessons and activities will need to be designed in such a way as to maximaize the timeframe available. Our student population is a mix of many levels and will need to be able to include mainstreemed special education students and students with IEPs.
+As all students at our school have their own Chromebook, this will be the primary tool they use to complete assignments and explore the projects. The class will be held for 45-50 minute periods at least twice a week as an enrichment course. All students will have access to the class at some point in the school year but it will be on a rotational basis due to time and teacher constraints. Not all students will be taking the class at the same time, but all will have access at some point in the year. Lessons and activities will need to be designed in such a way as to maximaize the timeframe available. Our student population is a mix of many levels and will need to be able to include mainstreemed special education students and students with IEPs.
 
 ## Plan
 
